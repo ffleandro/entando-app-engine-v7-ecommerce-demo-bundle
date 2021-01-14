@@ -1,0 +1,172 @@
+id: PRD39
+typeCode: PRD
+description: Apple Watch Series 3
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: title
+    value: null
+    values:
+      en: Apple Watch Series 3 38mm Spacial Gray
+      it: Apple Watch Series 3 38mm Spacial Gray
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: code
+    value: null
+    values:
+      en: V4ENN53LR
+      it: V4ENN53LR
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: desc
+    value: null
+    values:
+      en: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.'
+      it: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: brand
+    value: null
+    values:
+      en: Branch 05
+      it: Branch 05
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: price
+    value: '1599'
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: images
+    value: null
+    values: {}
+    elements:
+      - code: images
+        value: null
+        values:
+          en:
+            correlationCode: '26'
+            name: watch01.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 780 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1040 pixels
+              File Size: 57260 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: watch01_d0.jpg
+              Y Resolution: 1 dot
+          it:
+            correlationCode: '26'
+            name: watch01.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 780 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1040 pixels
+              File Size: 57260 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: watch01_d0.jpg
+              Y Resolution: 1 dot
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: images
+        value: null
+        values:
+          en:
+            correlationCode: '24'
+            name: watch02.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 780 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1040 pixels
+              File Size: 42564 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: watch02_d0.jpg
+              Y Resolution: 1 dot
+          it:
+            correlationCode: '24'
+            name: watch02.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 780 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1040 pixels
+              File Size: 42564 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: watch02_d0.jpg
+              Y Resolution: 1 dot
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: category
+    value: watch
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

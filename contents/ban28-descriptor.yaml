@@ -1,0 +1,58 @@
+id: BAN28
+typeCode: BAN
+description: Banner 02
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: image
+    value: null
+    values:
+      en:
+        correlationCode: '8'
+        name: banner02.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Jan 13 08:16:01 -03:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Significant Bits: 8 8 8 8
+          Image Height: '536'
+          Image Width: '1920'
+          File Size: 708425 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: banner02_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '8'
+        name: banner02.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Jan 13 08:16:01 -03:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Significant Bits: 8 8 8 8
+          Image Height: '536'
+          Image Width: '1920'
+          File Size: 708425 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: banner02_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value: null
+    values:
+      en: banner02
+      it: banner02
+    elements: []
+    compositeelements: []
+    listelements: {}

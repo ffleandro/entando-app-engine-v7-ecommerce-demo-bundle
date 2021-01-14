@@ -1,0 +1,230 @@
+id: PRD35
+typeCode: PRD
+description: Echo dot and light
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: title
+    value: null
+    values:
+      en: Echo Dot 3rd Gen Smart Speaker with Alexa + Smart Light Home Smart
+      it: Echo Dot 3rd Gen Smart Speaker with Alexa + Smart Light Home Smart
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: code
+    value: null
+    values:
+      en: D7WSM9FX5
+      it: D7WSM9FX5
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: desc
+    value: null
+    values:
+      en: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.'
+      it: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: brand
+    value: null
+    values:
+      en: Brand 01
+      it: Brand 01
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: price
+    value: '359'
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: images
+    value: null
+    values: {}
+    elements:
+      - code: images
+        value: null
+        values:
+          en:
+            correlationCode: '18'
+            name: lampada01.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 768 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1024 pixels
+              File Size: 174493 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: lampada01_d0.jpg
+              Y Resolution: 1 dot
+          it:
+            correlationCode: '18'
+            name: lampada01.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 768 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1024 pixels
+              File Size: 174493 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: lampada01_d0.jpg
+              Y Resolution: 1 dot
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: images
+        value: null
+        values:
+          en:
+            correlationCode: '16'
+            name: lampada02.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 708 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 944 pixels
+              File Size: 15984 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: lampada02_d0.jpg
+              Y Resolution: 1 dot
+          it:
+            correlationCode: '16'
+            name: lampada02.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 708 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 944 pixels
+              File Size: 15984 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: lampada02_d0.jpg
+              Y Resolution: 1 dot
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: images
+        value: null
+        values:
+          en:
+            correlationCode: '19'
+            name: lampada03.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 750 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1000 pixels
+              File Size: 154418 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: lampada03_d0.jpg
+              Y Resolution: 1 dot
+          it:
+            correlationCode: '19'
+            name: lampada03.jpg
+            metadata:
+              Resolution Units: none
+              Number of Tables: 4 Huffman tables
+              Detected File Type Long Name: Joint Photographic Experts Group
+              File Modified Date: 'Wed Jan 13 08:17:29 -03:00 2021'
+              Compression Type: Baseline
+              Data Precision: 8 bits
+              Detected MIME Type: image/jpeg
+              Expected File Name Extension: jpg
+              Number of Components: '3'
+              Component 2: 'Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Thumbnail Height Pixels: '0'
+              Component 1: 'Y component: Quantization table 0, Sampling factors 2 horiz/2 vert'
+              Image Height: 750 pixels
+              Thumbnail Width Pixels: '0'
+              X Resolution: 1 dot
+              Image Width: 1000 pixels
+              File Size: 154418 bytes
+              Component 3: 'Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert'
+              Version: '1.1'
+              Detected File Type Name: JPEG
+              File Name: lampada03_d0.jpg
+              Y Resolution: 1 dot
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: category
+    value: light
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

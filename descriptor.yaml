@@ -1,0 +1,42 @@
+code: e-commerce-app-engine-v7-demo-bundle
+description: Entando
+components:
+  contentTypes:
+    - contentTypes/ban-descriptor.yaml
+    - contentTypes/ctg-descriptor.yaml
+    - contentTypes/prd-descriptor.yaml
+  assets:
+    - assets/15/15-descriptor.yaml
+    - assets/17/17-descriptor.yaml
+    - assets/11/11-descriptor.yaml
+    - assets/9/9-descriptor.yaml
+    - assets/8/8-descriptor.yaml
+    - assets/7/7-descriptor.yaml
+    - assets/18/18-descriptor.yaml
+    - assets/16/16-descriptor.yaml
+    - assets/19/19-descriptor.yaml
+    - assets/10/10-descriptor.yaml
+    - assets/12/12-descriptor.yaml
+    - assets/22/22-descriptor.yaml
+    - assets/20/20-descriptor.yaml
+    - assets/21/21-descriptor.yaml
+    - assets/23/23-descriptor.yaml
+    - assets/25/25-descriptor.yaml
+    - assets/13/13-descriptor.yaml
+    - assets/26/26-descriptor.yaml
+    - assets/24/24-descriptor.yaml
+    - assets/14/14-descriptor.yaml
+  contents:
+    - contents/ban27-descriptor.yaml
+    - contents/ban28-descriptor.yaml
+    - contents/ban29-descriptor.yaml
+    - contents/ctg30-descriptor.yaml
+    - contents/ctg31-descriptor.yaml
+    - contents/ctg32-descriptor.yaml
+    - contents/ctg33-descriptor.yaml
+    - contents/ctg34-descriptor.yaml
+    - contents/prd35-descriptor.yaml
+    - contents/prd36-descriptor.yaml
+    - contents/prd37-descriptor.yaml
+    - contents/prd38-descriptor.yaml
+    - contents/prd39-descriptor.yaml

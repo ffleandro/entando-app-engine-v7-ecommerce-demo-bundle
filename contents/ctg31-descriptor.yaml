@@ -1,0 +1,74 @@
+id: CTG31
+typeCode: CTG
+description: Plugs
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: icon
+    value: null
+    values:
+      en:
+        correlationCode: '12'
+        name: plugs.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Jan 13 08:16:23 -03:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Significant Bits: 8 8 8 8
+          Image Height: '28'
+          Image Width: '28'
+          File Size: 933 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: plugs_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '12'
+        name: plugs.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Wed Jan 13 08:16:23 -03:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Significant Bits: 8 8 8 8
+          Image Height: '28'
+          Image Width: '28'
+          File Size: 933 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: plugs_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: Plugs
+      it: Plugs
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value: null
+    values:
+      en: Plugs
+      it: Plugs
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: code
+    value: null
+    values:
+      en: plug
+      it: plug
+    elements: []
+    compositeelements: []
+    listelements: {}
