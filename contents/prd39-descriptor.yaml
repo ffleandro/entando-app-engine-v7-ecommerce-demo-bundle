@@ -170,3 +170,9 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
+  - code: stock
+    value: '13'
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

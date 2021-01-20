@@ -228,3 +228,9 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
+  - code: stock
+    value: '11'
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
